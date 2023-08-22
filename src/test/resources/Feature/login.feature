@@ -3,7 +3,7 @@ Feature: To check the saucedemo page
   Scenario Outline: Check the Login page for both positive and negative cases
     When Browser Configuration
     Then Check the "<username>" and "<password>"
-    And To check whether the page login or not
+    And To check whether the page login or not 
 
     Examples: 
       | username                | password     |
