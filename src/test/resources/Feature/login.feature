@@ -21,3 +21,4 @@ Feature: To check the saucedemo page
     Examples: 
       | username     | password     | ProductName                       |
       | problem_user | secret_sauce | Test.allTheThings() T-Shirt (Red) |
+      
