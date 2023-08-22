@@ -4,7 +4,7 @@ Feature: To check the saucedemo page
     When Browser Configuration
     Then Check the "<username>" and "<password>"
     And To check whether the page login or not 
-
+ 
     Examples: 
       | username                | password     |
       | locked_out_user         | secret_sauce |
